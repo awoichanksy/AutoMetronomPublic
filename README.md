@@ -1,1 +1,1 @@
-# AutoMetronomPublic
+# Third-party notices
